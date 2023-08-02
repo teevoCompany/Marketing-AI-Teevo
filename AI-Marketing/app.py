@@ -59,7 +59,7 @@ def main_app():
             ]
 
     st.title("Assistant AI Bot")
-    st.image("image.jpg")
+    st.image("AI-Marketing/sidebar.jpg")
     st.write("🤖 Hello! Feel free to ask me anything.")
     st.sidebar.markdown("## AUTOMATION MARKETING & OUTREACH")
     st.sidebar.markdown("AI excellent marketing and sales expert. expert on optimize the conversion of marketing outreach and sales.")
