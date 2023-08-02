@@ -82,7 +82,7 @@ def run_app():
     st.sidebar.title("Assistant AI Bot")
     
     # Load and resize image
-    img = Image.open("sidebar.jpg")
+    img = Image.open("AI-Marketing/sidebar.jpg")
     img.thumbnail((300, 150))  # specify your desired width and height here
     
     st.sidebar.image(img)  # Display resized image
